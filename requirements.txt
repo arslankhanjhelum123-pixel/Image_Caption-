@@ -1,1 +1,6 @@
-
+# requirements.txt
+streamlit
+transformers
+torch
+pillow
+requests
